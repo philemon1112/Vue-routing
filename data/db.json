@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Ninja Stuga",
+      "description": "A black belt worrior from the Netherlands, which has been transformed into a white ribbon from the original version"
+    },
+    {
+      "id": "2",
+      "title": "Ninja Qualuachi",
+      "description": "A black belt worrior from Kumasi, Ghana. To his natives he is called Opanyin Degartsi , meaning the Senior man from the Degartsi family tree"
+    },
+    {
+      "id": "3",
+      "title": "Ninja Omega-Prime",
+      "description": "A black belt worrior from the Atlantic Ocean"
+    }
+  ]
+}
